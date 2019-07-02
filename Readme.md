@@ -4,12 +4,11 @@ Recommended angular folder structure to use in your projects, as gathered from d
 
 ```
 |-- app
-    |-- modules
-        |-- home
-            |-- [+] components
-            |-- [+] pages
-            |-- home-routing.module.ts
-            |-- home.module.ts
+    |-- home
+        |-- [+] components
+        |-- [+] services
+        |-- home-routing.module.ts
+        |-- home.module.ts
     |
     |-- feature-module-1
         |-- [+] components
